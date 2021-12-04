@@ -11,3 +11,4 @@ $ python2 fbbrute.py
 
 uploaded by Mr.Brown this tools for brute attack facebook, use wisely :)
 Thanks Evolution Cyber Team
+سلام من میخواهم در فیسبوک شخص دیگری وارد شوم
